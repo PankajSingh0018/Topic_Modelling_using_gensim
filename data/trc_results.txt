@@ -1,0 +1,65 @@
+Cluster 0
+ amnesty
+ granted
+ granted amnesty
+ operatives
+ mk
+ injured
+ killed
+ people
+ members
+ attack
+
+
+Cluster 1
+ police
+ members
+ member
+ cape
+ shot
+ beaten
+ named
+ severely
+ mr
+ transvaal
+
+
+Cluster 2
+ conflict
+ politicaler
+ political conflict
+ supporters
+ burnt
+ inkatha
+ near
+ area
+ home
+ durban
+
+
+Cluster 3
+ members sap
+ sap
+ members
+ shot
+ cape
+ police
+ beaten
+ severely
+ shot dead
+ dead
+
+
+Cluster 4
+ ifp
+ anc
+ supporters
+ ifp supporters
+ supporter
+ anc supporter
+ natal
+ near
+ kwazulu
+ kwazulu near
+
+

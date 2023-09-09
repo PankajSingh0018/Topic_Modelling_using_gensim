@@ -1,0 +1,7 @@
+gensim 
+numpy
+spacy
+nltk
+pyLDAvis
+scikit-learn 
+
